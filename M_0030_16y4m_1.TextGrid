@@ -1,0 +1,1942 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 208.9012244897959 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 208.9012244897959 
+        intervals: size = 482 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.6559369520280209 
+            text = "stammered_a" 
+        intervals [2]:
+            xmin = 0.6559369520280209 
+            xmax = 1.1870874336912498 
+            text = "wealthy" 
+        intervals [3]:
+            xmin = 1.1870874336912498 
+            xmax = 2.1546606778632795 
+            text = " stammered_athenian" 
+        intervals [4]:
+            xmin = 2.1546606778632795 
+            xmax = 3.2351361369529714 
+            text = "" 
+        intervals [5]:
+            xmin = 3.2351361369529714 
+            xmax = 3.7787215797253726 
+            text = "instead of" 
+        intervals [6]:
+            xmin = 3.7787215797253726 
+            xmax = 4.130453336813397 
+            text = "paying" 
+        intervals [7]:
+            xmin = 4.130453336813397 
+            xmax = 4.6171932430867235 
+            text = "taxes" 
+        intervals [8]:
+            xmin = 4.6171932430867235 
+            xmax = 4.7619939291485425 
+            text = "for" 
+        intervals [9]:
+            xmin = 4.7619939291485425 
+            xmax = 4.82239231167881 
+            text = "a" 
+        intervals [10]:
+            xmin = 4.82239231167881 
+            xmax = 5.295664798841166 
+            text = "single" 
+        intervals [11]:
+            xmin = 5.295664798841166 
+            xmax = 5.680404628211717 
+            text = "year" 
+        intervals [12]:
+            xmin = 5.680404628211717 
+            xmax = 5.918611977987556 
+            text = "you" 
+        intervals [13]:
+            xmin = 5.918611977987556 
+            xmax = 6.272120158091176 
+            text = "could" 
+        intervals [14]:
+            xmin = 6.272120158091176 
+            xmax = 6.678921028662678 
+            text = "either" 
+        intervals [15]:
+            xmin = 6.678921028662678 
+            xmax = 7.162108088904813 
+            text = "choose" 
+        intervals [16]:
+            xmin = 7.162108088904813 
+            xmax = 7.7936486812399615 
+            text = "to" 
+        intervals [17]:
+            xmin = 7.7936486812399615 
+            xmax = 8.29815281766925 
+            text = "" 
+        intervals [18]:
+            xmin = 8.29815281766925 
+            xmax = 9.110889079848256 
+            text = "organise" 
+        intervals [19]:
+            xmin = 9.110889079848256 
+            xmax = 9.343600494891344 
+            text = "a" 
+        intervals [20]:
+            xmin = 9.343600494891344 
+            xmax = 9.78060055672798 
+            text = "religious" 
+        intervals [21]:
+            xmin = 9.78060055672798 
+            xmax = 10.511165679262545 
+            text = "procession" 
+        intervals [22]:
+            xmin = 10.511165679262545 
+            xmax = 11.078011182473047 
+            text = "" 
+        intervals [23]:
+            xmin = 11.078011182473047 
+            xmax = 11.259206330063845 
+            text = "you" 
+        intervals [24]:
+            xmin = 11.259206330063845 
+            xmax = 12.145641414846292 
+            text = "could" 
+        intervals [25]:
+            xmin = 12.145641414846292 
+            xmax = 14.233726948217578 
+            text = "" 
+        intervals [26]:
+            xmin = 14.233726948217578 
+            xmax = 14.443344864057915 
+            text = "you" 
+        intervals [27]:
+            xmin = 14.443344864057915 
+            xmax = 14.532166014837719 
+            text = "could" 
+        intervals [28]:
+            xmin = 14.532166014837719 
+            xmax = 14.759548160834019 
+            text = "make" 
+        intervals [29]:
+            xmin = 14.759548160834019 
+            xmax = 14.962060384611972 
+            text = "a" 
+        intervals [30]:
+            xmin = 14.962060384611972 
+            xmax = 15.68626367564734 
+            text = "worship" 
+        intervals [31]:
+            xmin = 15.68626367564734 
+            xmax = 16.06051163261027 
+            text = "" 
+        intervals [32]:
+            xmin = 16.06051163261027 
+            xmax = 16.213284011951533 
+            text = "or" 
+        intervals [33]:
+            xmin = 16.213284011951533 
+            xmax = 16.48862957936893 
+            text = "you" 
+        intervals [34]:
+            xmin = 16.48862957936893 
+            xmax = 16.84924345153493 
+            text = "could" 
+        intervals [35]:
+            xmin = 16.84924345153493 
+            xmax = 17.302686583636515 
+            text = "" 
+        intervals [36]:
+            xmin = 17.302686583636515 
+            xmax = 17.416377656634662 
+            text = "or" 
+        intervals [37]:
+            xmin = 17.416377656634662 
+            xmax = 17.53184515264841 
+            text = "you" 
+        intervals [38]:
+            xmin = 17.53184515264841 
+            xmax = 17.694410068866187 
+            text = "could" 
+        intervals [39]:
+            xmin = 17.694410068866187 
+            xmax = 18.61815003697615 
+            text = "sponsor" 
+        intervals [40]:
+            xmin = 18.61815003697615 
+            xmax = 19.099272076764073 
+            text = "" 
+        intervals [41]:
+            xmin = 19.099272076764073 
+            xmax = 19.27026394938587 
+            text = "or" 
+        intervals [42]:
+            xmin = 19.27026394938587 
+            xmax = 19.74279247153443 
+            text = "Greek" 
+        intervals [43]:
+            xmin = 19.74279247153443 
+            xmax = 20.185121802417854 
+            text = "" 
+        intervals [44]:
+            xmin = 20.185121802417854 
+            xmax = 23.508276490302386 
+            text = "" 
+        intervals [45]:
+            xmin = 23.508276490302386 
+            xmax = 26.026089727761956 
+            text = "stammered_playwright" 
+        intervals [46]:
+            xmin = 26.026089727761956 
+            xmax = 27.26591095644476 
+            text = "" 
+        intervals [47]:
+            xmin = 27.26591095644476 
+            xmax = 27.505150764222396 
+            text = "stammered_and" 
+        intervals [48]:
+            xmin = 27.505150764222396 
+            xmax = 27.633053221345314 
+            text = "a" 
+        intervals [49]:
+            xmin = 27.633053221345314 
+            xmax = 27.84267113718565 
+            text = "great" 
+        intervals [50]:
+            xmin = 27.84267113718565 
+            xmax = 28.366715926786497 
+            text = "theatre" 
+        intervals [51]:
+            xmin = 28.366715926786497 
+            xmax = 29.031264800305394 
+            text = "" 
+        intervals [52]:
+            xmin = 29.031264800305394 
+            xmax = 29.346146832739855 
+            text = "and" 
+        intervals [53]:
+            xmin = 29.346146832739855 
+            xmax = 29.5539883255646 
+            text = "you" 
+        intervals [54]:
+            xmin = 29.5539883255646 
+            xmax = 29.795581855685665 
+            text = "have" 
+        intervals [55]:
+            xmin = 29.795581855685665 
+            xmax = 29.859533084247126 
+            text = "to" 
+        intervals [56]:
+            xmin = 29.859533084247126 
+            xmax = 30.408447796066316 
+            text = "organise" 
+        intervals [57]:
+            xmin = 30.408447796066316 
+            xmax = 31.057752723008036 
+            text = "everything" 
+        intervals [58]:
+            xmin = 31.057752723008036 
+            xmax = 31.834049580823528 
+            text = "stammered_including" 
+        intervals [59]:
+            xmin = 31.834049580823528 
+            xmax = 32.67091138240464 
+            text = "costumes" 
+        intervals [60]:
+            xmin = 32.67091138240464 
+            xmax = 32.83967156888627 
+            text = "and" 
+        intervals [61]:
+            xmin = 32.83967156888627 
+            xmax = 32.90539922046332 
+            text = "you" 
+        intervals [62]:
+            xmin = 32.90539922046332 
+            xmax = 33.01020817838349 
+            text = "have" 
+        intervals [63]:
+            xmin = 33.01020817838349 
+            xmax = 33.141663481537606 
+            text = "to" 
+        intervals [64]:
+            xmin = 33.141663481537606 
+            xmax = 33.405773211533585 
+            text = "train" 
+        intervals [65]:
+            xmin = 33.405773211533585 
+            xmax = 33.55676916785925 
+            text = "the" 
+        intervals [66]:
+            xmin = 33.55676916785925 
+            xmax = 34.08436680349129 
+            text = "chorus" 
+        intervals [67]:
+            xmin = 34.08436680349129 
+            xmax = 34.85194821191475 
+            text = "" 
+        intervals [68]:
+            xmin = 34.85194821191475 
+            xmax = 35.34876935695382 
+            text = "" 
+        intervals [69]:
+            xmin = 35.34876935695382 
+            xmax = 35.81774503307118 
+            text = "stammered_many" 
+        intervals [70]:
+            xmin = 35.81774503307118 
+            xmax = 36.356001206796805 
+            text = "differences" 
+        intervals [71]:
+            xmin = 36.356001206796805 
+            xmax = 36.7434279854321 
+            text = "between" 
+        intervals [72]:
+            xmin = 36.7434279854321 
+            xmax = 37.00100932269353 
+            text = "Greek" 
+        intervals [73]:
+            xmin = 37.00100932269353 
+            xmax = 37.58235491191803 
+            text = "Theatre" 
+        intervals [74]:
+            xmin = 37.58235491191803 
+            xmax = 37.92342813091248 
+            text = "stammered_and" 
+        intervals [75]:
+            xmin = 37.92342813091248 
+            xmax = 38.278135434703856 
+            text = "theatre" 
+        intervals [76]:
+            xmin = 38.278135434703856 
+            xmax = 38.67072492115059 
+            text = "these" 
+        intervals [77]:
+            xmin = 38.67072492115059 
+            xmax = 39.04555017744136 
+            text = "days" 
+        intervals [78]:
+            xmin = 39.04555017744136 
+            xmax = 39.62660706477662 
+            text = "" 
+        intervals [79]:
+            xmin = 39.62660706477662 
+            xmax = 40.03031035244152 
+            text = "" 
+        intervals [80]:
+            xmin = 40.03031035244152 
+            xmax = 40.195517692891954 
+            text = "there're" 
+        intervals [81]:
+            xmin = 40.195517692891954 
+            xmax = 40.5365909118864 
+            text = "only" 
+        intervals [82]:
+            xmin = 40.5365909118864 
+            xmax = 40.712456790430416 
+            text = "3" 
+        intervals [83]:
+            xmin = 40.712456790430416 
+            xmax = 41.22200159846787 
+            text = "actors" 
+        intervals [84]:
+            xmin = 41.22200159846787 
+            xmax = 41.380103246855924 
+            text = "in" 
+        intervals [85]:
+            xmin = 41.380103246855924 
+            xmax = 41.84168452902169 
+            text = "general" 
+        intervals [86]:
+            xmin = 41.84168452902169 
+            xmax = 42.19713579782686 
+            text = "" 
+        intervals [87]:
+            xmin = 42.19713579782686 
+            xmax = 42.51156267158737 
+            text = "" 
+        intervals [88]:
+            xmin = 42.51156267158737 
+            xmax = 42.625253744585514 
+            text = "i" 
+        intervals [89]:
+            xmin = 42.625253744585514 
+            xmax = 42.730062702505684 
+            text = "was" 
+        intervals [90]:
+            xmin = 42.730062702505684 
+            xmax = 42.76026189377082 
+            text = "the" 
+        intervals [91]:
+            xmin = 42.76026189377082 
+            xmax = 43.1315343040304 
+            text = "main" 
+        intervals [92]:
+            xmin = 43.1315343040304 
+            xmax = 43.72733498175159 
+            text = "actor" 
+        intervals [93]:
+            xmin = 43.72733498175159 
+            xmax = 44.46632695623956 
+            text = "and" 
+        intervals [94]:
+            xmin = 44.46632695623956 
+            xmax = 44.64872164532058 
+            text = "" 
+        intervals [95]:
+            xmin = 44.64872164532058 
+            xmax = 44.725107834991206 
+            text = "they" 
+        intervals [96]:
+            xmin = 44.725107834991206 
+            xmax = 44.84768102306734 
+            text = "were" 
+        intervals [97]:
+            xmin = 44.84768102306734 
+            xmax = 44.93294932781595 
+            text = "to" 
+        intervals [98]:
+            xmin = 44.93294932781595 
+            xmax = 45.529827461056236 
+            text = "support" 
+        intervals [99]:
+            xmin = 45.529827461056236 
+            xmax = 45.78918522133326 
+            text = "young" 
+        intervals [100]:
+            xmin = 45.78918522133326 
+            xmax = 46.4334494766668 
+            text = "actors" 
+        intervals [101]:
+            xmin = 46.4334494766668 
+            xmax = 46.9523315584562 
+            text = "" 
+        intervals [102]:
+            xmin = 46.9523315584562 
+            xmax = 47.23833566396717 
+            text = "and" 
+        intervals [103]:
+            xmin = 47.23833566396717 
+            xmax = 47.703758494053346 
+            text = "they" 
+        intervals [104]:
+            xmin = 47.703758494053346 
+            xmax = 49.22173427562155 
+            text = "stammered_and" 
+        intervals [105]:
+            xmin = 49.22173427562155 
+            xmax = 49.66096591914775 
+            text = "and" 
+        intervals [106]:
+            xmin = 49.66096591914775 
+            xmax = 49.847490335785345 
+            text = "they" 
+        intervals [107]:
+            xmin = 49.847490335785345 
+            xmax = 50.36843754247956 
+            text = "tended" 
+        intervals [108]:
+            xmin = 50.36843754247956 
+            xmax = 51.11040506367089 
+            text = "to" 
+        intervals [109]:
+            xmin = 51.11040506367089 
+            xmax = 51.28672620533947 
+            text = "" 
+        intervals [110]:
+            xmin = 51.28672620533947 
+            xmax = 51.70418561400455 
+            text = "switch" 
+        intervals [111]:
+            xmin = 51.70418561400455 
+            xmax = 52.12164502266963 
+            text = "roles" 
+        intervals [112]:
+            xmin = 52.12164502266963 
+            xmax = 52.40054343611821 
+            text = "over" 
+        intervals [113]:
+            xmin = 52.40054343611821 
+            xmax = 52.97627105440669 
+            text = "time" 
+        intervals [114]:
+            xmin = 52.97627105440669 
+            xmax = 53.5459255430852 
+            text = "" 
+        intervals [115]:
+            xmin = 53.5459255430852 
+            xmax = 54.33895417305486 
+            text = "" 
+        intervals [116]:
+            xmin = 54.33895417305486 
+            xmax = 54.55535759395387 
+            text = "and" 
+        intervals [117]:
+            xmin = 54.55535759395387 
+            xmax = 54.61117056800053 
+            text = "a" 
+        intervals [118]:
+            xmin = 54.61117056800053 
+            xmax = 54.650251874343645 
+            text = "" 
+        intervals [119]:
+            xmin = 54.650251874343645 
+            xmax = 55.315666644629 
+            text = "result" 
+        intervals [120]:
+            xmin = 55.315666644629 
+            xmax = 55.97294316039955 
+            text = "" 
+        intervals [121]:
+            xmin = 55.97294316039955 
+            xmax = 56.19413014058261 
+            text = "" 
+        intervals [122]:
+            xmin = 56.19413014058261 
+            xmax = 56.44105293975047 
+            text = "all" 
+        intervals [123]:
+            xmin = 56.44105293975047 
+            xmax = 56.54053262862385 
+            text = "the" 
+        intervals [124]:
+            xmin = 56.54053262862385 
+            xmax = 57.306170948345766 
+            text = "costumes" 
+        intervals [125]:
+            xmin = 57.306170948345766 
+            xmax = 57.50174404129668 
+            text = "they" 
+        intervals [126]:
+            xmin = 57.50174404129668 
+            xmax = 57.85347579838471 
+            text = "will" 
+        intervals [127]:
+            xmin = 57.85347579838471 
+            xmax = 58.7573865158845 
+            text = "" 
+        intervals [128]:
+            xmin = 58.7573865158845 
+            xmax = 60.41867515793752 
+            text = "" 
+        intervals [129]:
+            xmin = 60.41867515793752 
+            xmax = 60.50571988570173 
+            text = "I" 
+        intervals [130]:
+            xmin = 60.50571988570173 
+            xmax = 60.868110180883335 
+            text = "stammered_tended" 
+        intervals [131]:
+            xmin = 60.868110180883335 
+            xmax = 61.05108175148973 
+            text = "to" 
+        intervals [132]:
+            xmin = 61.05108175148973 
+            xmax = 61.2447118601897 
+            text = "be" 
+        intervals [133]:
+            xmin = 61.2447118601897 
+            xmax = 61.91281357973979 
+            text = "pretty" 
+        intervals [134]:
+            xmin = 61.91281357973979 
+            xmax = 62.380012832841565 
+            text = "heavy" 
+        intervals [135]:
+            xmin = 62.380012832841565 
+            xmax = 62.559598118652126 
+            text = "but" 
+        intervals [136]:
+            xmin = 62.559598118652126 
+            xmax = 62.9806103733484 
+            text = "easy" 
+        intervals [137]:
+            xmin = 62.9806103733484 
+            xmax = 63.10318356142453 
+            text = "to" 
+        intervals [138]:
+            xmin = 63.10318356142453 
+            xmax = 63.225756749500654 
+            text = "get" 
+        intervals [139]:
+            xmin = 63.225756749500654 
+            xmax = 63.31813074631165 
+            text = "on" 
+        intervals [140]:
+            xmin = 63.31813074631165 
+            xmax = 63.4797852407309 
+            text = "and" 
+        intervals [141]:
+            xmin = 63.4797852407309 
+            xmax = 63.71249665577398 
+            text = "off" 
+        intervals [142]:
+            xmin = 63.71249665577398 
+            xmax = 64.87544621463557 
+            text = "" 
+        intervals [143]:
+            xmin = 64.87544621463557 
+            xmax = 66.33806418083108 
+            text = "" 
+        intervals [144]:
+            xmin = 66.33806418083108 
+            xmax = 66.64555202821518 
+            text = "those" 
+        intervals [145]:
+            xmin = 66.64555202821518 
+            xmax = 66.94576751785091 
+            text = "wall" 
+        intervals [146]:
+            xmin = 66.94576751785091 
+            xmax = 67.72384079868199 
+            text = "masks" 
+        intervals [147]:
+            xmin = 67.72384079868199 
+            xmax = 67.98588540377315 
+            text = "" 
+        intervals [148]:
+            xmin = 67.98588540377315 
+            xmax = 68.48683669417125 
+            text = "which" 
+        intervals [149]:
+            xmin = 68.48683669417125 
+            xmax = 69.3661660868913 
+            text = "" 
+        intervals [150]:
+            xmin = 69.3661660868913 
+            xmax = 70.56409702376298 
+            text = "stammered_which" 
+        intervals [151]:
+            xmin = 70.56409702376298 
+            xmax = 70.80391413086845 
+            text = "gave" 
+        intervals [152]:
+            xmin = 70.80391413086845 
+            xmax = 71.31907680539132 
+            text = "them" 
+        intervals [153]:
+            xmin = 71.31907680539132 
+            xmax = 71.66031669007172 
+            text = "" 
+        intervals [154]:
+            xmin = 71.66031669007172 
+            xmax = 72.11330455904873 
+            text = "" 
+        intervals [155]:
+            xmin = 72.11330455904873 
+            xmax = 73.55786969764966 
+            text = "" 
+        intervals [156]:
+            xmin = 73.55786969764966 
+            xmax = 73.79768680475514 
+            text = "which" 
+        intervals [157]:
+            xmin = 73.79768680475514 
+            xmax = 73.95578845314319 
+            text = "gave" 
+        intervals [158]:
+            xmin = 73.95578845314319 
+            xmax = 74.14408929279638 
+            text = "them" 
+        intervals [159]:
+            xmin = 74.14408929279638 
+            xmax = 74.26310963484131 
+            text = "a" 
+        intervals [160]:
+            xmin = 74.26310963484131 
+            xmax = 74.50825601099356 
+            text = "whole" 
+        intervals [161]:
+            xmin = 74.50825601099356 
+            xmax = 74.62017066097611 
+            text = "new" 
+        intervals [162]:
+            xmin = 74.62017066097611 
+            xmax = 75.42076014168211 
+            text = "identity" 
+        intervals [163]:
+            xmin = 75.42076014168211 
+            xmax = 75.65347155672521 
+            text = "of" 
+        intervals [164]:
+            xmin = 75.65347155672521 
+            xmax = 75.85970318776971 
+            text = "the" 
+        intervals [165]:
+            xmin = 75.85970318776971 
+            xmax = 76.16169510042104 
+            text = "points" 
+        intervals [166]:
+            xmin = 76.16169510042104 
+            xmax = 76.41927643768247 
+            text = "for" 
+        intervals [167]:
+            xmin = 76.41927643768247 
+            xmax = 77.26576431935536 
+            text = "audience" 
+        intervals [168]:
+            xmin = 77.26576431935536 
+            xmax = 77.42564239075901 
+            text = "" 
+        intervals [169]:
+            xmin = 77.42564239075901 
+            xmax = 77.63703672961493 
+            text = "and" 
+        intervals [170]:
+            xmin = 77.63703672961493 
+            xmax = 77.7898091089562 
+            text = "it" 
+        intervals [171]:
+            xmin = 77.7898091089562 
+            xmax = 78.08469532954516 
+            text = "also" 
+        intervals [172]:
+            xmin = 78.08469532954516 
+            xmax = 78.34227666680658 
+            text = "meant" 
+        intervals [173]:
+            xmin = 78.34227666680658 
+            xmax = 78.61378068630356 
+            text = "that" 
+        intervals [174]:
+            xmin = 78.61378068630356 
+            xmax = 78.8162929100815 
+            text = "all" 
+        intervals [175]:
+            xmin = 78.8162929100815 
+            xmax = 78.91949200622145 
+            text = "the" 
+        intervals [176]:
+            xmin = 78.91949200622145 
+            xmax = 79.32274003076175 
+            text = "people" 
+        intervals [177]:
+            xmin = 79.32274003076175 
+            xmax = 79.95692304732955 
+            text = "stammered_who" 
+        intervals [178]:
+            xmin = 79.95692304732955 
+            xmax = 80.50274017624211 
+            text = "were" 
+        intervals [179]:
+            xmin = 80.50274017624211 
+            xmax = 80.65671167927115 
+            text = "" 
+        intervals [180]:
+            xmin = 80.65671167927115 
+            xmax = 80.75263852211333 
+            text = "who" 
+        intervals [181]:
+            xmin = 80.75263852211333 
+            xmax = 81.09371174110778 
+            text = "sitting" 
+        intervals [182]:
+            xmin = 81.09371174110778 
+            xmax = 81.29267111885454 
+            text = "at" 
+        intervals [183]:
+            xmin = 81.29267111885454 
+            xmax = 81.41346788391508 
+            text = "the" 
+        intervals [184]:
+            xmin = 81.41346788391508 
+            xmax = 81.6950532466284 
+            text = "back" 
+        intervals [185]:
+            xmin = 81.6950532466284 
+            xmax = 81.881577663266 
+            text = "of" 
+        intervals [186]:
+            xmin = 81.881577663266 
+            xmax = 82.20311022908888 
+            text = "the" 
+        intervals [187]:
+            xmin = 82.20311022908888 
+            xmax = 82.76445990201724 
+            text = "theatre" 
+        intervals [188]:
+            xmin = 82.76445990201724 
+            xmax = 82.9148785590151 
+            text = "could" 
+        intervals [189]:
+            xmin = 82.9148785590151 
+            xmax = 83.20088266452606 
+            text = "see" 
+        intervals [190]:
+            xmin = 83.20088266452606 
+            xmax = 83.39984204227282 
+            text = "them" 
+        intervals [191]:
+            xmin = 83.39984204227282 
+            xmax = 84.50139087317774 
+            text = "" 
+        intervals [192]:
+            xmin = 84.50139087317774 
+            xmax = 85.59004958429952 
+            text = "" 
+        intervals [193]:
+            xmin = 85.59004958429952 
+            xmax = 87.44806602240976 
+            text = "" 
+        intervals [194]:
+            xmin = 87.44806602240976 
+            xmax = 87.7796798269984 
+            text = "yeah" 
+        intervals [195]:
+            xmin = 87.7796798269984 
+            xmax = 88.64599695928145 
+            text = "" 
+        intervals [196]:
+            xmin = 88.64599695928145 
+            xmax = 89.18602955602266 
+            text = "stammered_it's" 
+        intervals [197]:
+            xmin = 89.18602955602266 
+            xmax = 90.02421251749477 
+            text = "obviously" 
+        intervals [198]:
+            xmin = 90.02421251749477 
+            xmax = 90.47782231528232 
+            text = "happen" 
+        intervals [199]:
+            xmin = 90.47782231528232 
+            xmax = 90.73362722952815 
+            text = "these" 
+        intervals [200]:
+            xmin = 90.73362722952815 
+            xmax = 91.06581833344462 
+            text = "days" 
+        intervals [201]:
+            xmin = 91.06581833344462 
+            xmax = 91.13332240803727 
+            text = "" 
+        intervals [202]:
+            xmin = 91.13332240803727 
+            xmax = 91.42820862862622 
+            text = "because" 
+        intervals [203]:
+            xmin = 91.42820862862622 
+            xmax = 91.50356225584444 
+            text = "they" 
+        intervals [204]:
+            xmin = 91.50356225584444 
+            xmax = 91.61118019923262 
+            text = "were" 
+        intervals [205]:
+            xmin = 91.61118019923262 
+            xmax = 92.16484688077075 
+            text = "relatively" 
+        intervals [206]:
+            xmin = 92.16484688077075 
+            xmax = 92.63559897990372 
+            text = "small" 
+        intervals [207]:
+            xmin = 92.63559897990372 
+            xmax = 93.39074532276742 
+            text = "theatres" 
+        intervals [208]:
+            xmin = 93.39074532276742 
+            xmax = 93.9664729410559 
+            text = "" 
+        intervals [209]:
+            xmin = 93.9664729410559 
+            xmax = 94.82923722730777 
+            text = "" 
+        intervals [210]:
+            xmin = 94.82923722730777 
+            xmax = 95.17919256138019 
+            text = "stammered_this" 
+        intervals [211]:
+            xmin = 95.17919256138019 
+            xmax = 95.30944874084652 
+            text = "is" 
+        intervals [212]:
+            xmin = 95.30944874084652 
+            xmax = 96.14986349290943 
+            text = "because" 
+        intervals [213]:
+            xmin = 96.14986349290943 
+            xmax = 96.30778343025065 
+            text = "" 
+        intervals [214]:
+            xmin = 96.30778343025065 
+            xmax = 96.52983630720016 
+            text = "any" 
+        intervals [215]:
+            xmin = 96.52983630720016 
+            xmax = 96.90466156349093 
+            text = "single" 
+        intervals [216]:
+            xmin = 96.90466156349093 
+            xmax = 96.9452305909604 
+            text = "" 
+        intervals [217]:
+            xmin = 96.9452305909604 
+            xmax = 97.24366965758055 
+            text = "player" 
+        intervals [218]:
+            xmin = 97.24366965758055 
+            xmax = 97.7161981797291 
+            text = "build-off" 
+        intervals [219]:
+            xmin = 97.7161981797291 
+            xmax = 97.88483633000747 
+            text = "from" 
+        intervals [220]:
+            xmin = 97.88483633000747 
+            xmax = 97.96122251967812 
+            text = "the" 
+        intervals [221]:
+            xmin = 97.96122251967812 
+            xmax = 98.29519004661017 
+            text = "shared" 
+        intervals [222]:
+            xmin = 98.29519004661017 
+            xmax = 98.75706003066514 
+            text = "hundreds" 
+        intervals [223]:
+            xmin = 98.75706003066514 
+            xmax = 98.84943402747615 
+            text = "of" 
+        intervals [224]:
+            xmin = 98.84943402747615 
+            xmax = 99.44453573770083 
+            text = "times" 
+        intervals [225]:
+            xmin = 99.44453573770083 
+            xmax = 99.84439747744533 
+            text = "" 
+        intervals [226]:
+            xmin = 99.84439747744533 
+            xmax = 100.40574715037368 
+            text = "instead" 
+        intervals [227]:
+            xmin = 100.40574715037368 
+            xmax = 100.67931629477548 
+            text = "of" 
+        intervals [228]:
+            xmin = 100.67931629477548 
+            xmax = 101.0514992312842 
+            text = "" 
+        intervals [229]:
+            xmin = 101.0514992312842 
+            xmax = 101.16163745825116 
+            text = "in" 
+        intervals [230]:
+            xmin = 101.16163745825116 
+            xmax = 101.73186924625749 
+            text = "ancient" 
+        intervals [231]:
+            xmin = 101.73186924625749 
+            xmax = 102.0942595414391 
+            text = "times" 
+        intervals [232]:
+            xmin = 102.0942595414391 
+            xmax = 102.22816302080945 
+            text = "when" 
+        intervals [233]:
+            xmin = 102.22816302080945 
+            xmax = 102.5230492413984 
+            text = "you" 
+        intervals [234]:
+            xmin = 102.5230492413984 
+            xmax = 103.40180133479062 
+            text = "" 
+        intervals [235]:
+            xmin = 103.40180133479062 
+            xmax = 103.5865493284126 
+            text = "stammered_when" 
+        intervals [236]:
+            xmin = 103.5865493284126 
+            xmax = 103.80682578234652 
+            text = "any" 
+        intervals [237]:
+            xmin = 103.80682578234652 
+            xmax = 104.08898844438768 
+            text = "single" 
+        intervals [238]:
+            xmin = 104.08898844438768 
+            xmax = 104.30794373843058 
+            text = "play" 
+        intervals [239]:
+            xmin = 104.30794373843058 
+            xmax = 104.42341123444433 
+            text = "was" 
+        intervals [240]:
+            xmin = 104.42341123444433 
+            xmax = 104.68276899472136 
+            text = "only" 
+        intervals [241]:
+            xmin = 104.68276899472136 
+            xmax = 105.08424059624606 
+            text = "shown" 
+        intervals [242]:
+            xmin = 105.08424059624606 
+            xmax = 105.31872843430475 
+            text = "once" 
+        intervals [243]:
+            xmin = 105.31872843430475 
+            xmax = 105.71859017404923 
+            text = "" 
+        intervals [244]:
+            xmin = 105.71859017404923 
+            xmax = 105.97617151131065 
+            text = "only" 
+        intervals [245]:
+            xmin = 105.97617151131065 
+            xmax = 106.07920404621522 
+            text = "one" 
+        intervals [246]:
+            xmin = 106.07920404621522 
+            xmax = 106.42027726520968 
+            text = "main" 
+        intervals [247]:
+            xmin = 106.42027726520968 
+            xmax = 106.57837891359773 
+            text = "" 
+        intervals [248]:
+            xmin = 106.57837891359773 
+            xmax = 107.23226914457243 
+            text = "performance" 
+        intervals [249]:
+            xmin = 107.23226914457243 
+            xmax = 108.16357006786936 
+            text = "" 
+        intervals [250]:
+            xmin = 108.16357006786936 
+            xmax = 110.28569623597558 
+            text = "" 
+        intervals [251]:
+            xmin = 110.28569623597558 
+            xmax = 110.33721250342786 
+            text = "the" 
+        intervals [252]:
+            xmin = 110.33721250342786 
+            xmax = 110.85770444699752 
+            text = "actors" 
+        intervals [253]:
+            xmin = 110.85770444699752 
+            xmax = 111.0477817096663 
+            text = "in" 
+        intervals [254]:
+            xmin = 111.0477817096663 
+            xmax = 111.52861504756501 
+            text = "Greece" 
+        intervals [255]:
+            xmin = 111.52861504756501 
+            xmax = 111.67725728154726 
+            text = "were" 
+        intervals [256]:
+            xmin = 111.67725728154726 
+            xmax = 111.85134673707567 
+            text = "all" 
+        intervals [257]:
+            xmin = 111.85134673707567 
+            xmax = 112.38605006477009 
+            text = "male" 
+        intervals [258]:
+            xmin = 112.38605006477009 
+            xmax = 112.83668421140364 
+            text = "" 
+        intervals [259]:
+            xmin = 112.83668421140364 
+            xmax = 113.07682300162251 
+            text = "where" 
+        intervals [260]:
+            xmin = 113.07682300162251 
+            xmax = 113.18696122858947 
+            text = "as" 
+        intervals [261]:
+            xmin = 113.18696122858947 
+            xmax = 113.49961167933438 
+            text = "these" 
+        intervals [262]:
+            xmin = 113.49961167933438 
+            xmax = 113.54402225472427 
+            text = "" 
+        intervals [263]:
+            xmin = 113.54402225472427 
+            xmax = 113.94727027926459 
+            text = "days" 
+        intervals [264]:
+            xmin = 113.94727027926459 
+            xmax = 114.05740850623154 
+            text = "they" 
+        intervals [265]:
+            xmin = 114.05740850623154 
+            xmax = 114.13172967544797 
+            text = "were" 
+        intervals [266]:
+            xmin = 114.13172967544797 
+            xmax = 114.74724947941857 
+            text = "female" 
+        intervals [267]:
+            xmin = 114.74724947941857 
+            xmax = 115.03683951663552 
+            text = "" 
+        intervals [268]:
+            xmin = 115.03683951663552 
+            xmax = 115.59818918956388 
+            text = "actors" 
+        intervals [269]:
+            xmin = 115.59818918956388 
+            xmax = 115.75451441493634 
+            text = "as" 
+        intervals [270]:
+            xmin = 115.75451441493634 
+            xmax = 116.10446974900876 
+            text = "well" 
+        intervals [271]:
+            xmin = 116.10446974900876 
+            xmax = 116.54490051622273 
+            text = "" 
+        intervals [272]:
+            xmin = 116.54490051622273 
+            xmax = 117.02986399948045 
+            text = "however" 
+        intervals [273]:
+            xmin = 117.02986399948045 
+            xmax = 117.31409168197582 
+            text = "they" 
+        intervals [274]:
+            xmin = 117.31409168197582 
+            xmax = 117.79905516523355 
+            text = "were" 
+        intervals [275]:
+            xmin = 117.79905516523355 
+            xmax = 119.09497806985225 
+            text = "" 
+        intervals [276]:
+            xmin = 119.09497806985225 
+            xmax = 119.4646406183316 
+            text = "absolutely" 
+        intervals [277]:
+            xmin = 119.4646406183316 
+            xmax = 120.03309598332234 
+            text = "anyone" 
+        intervals [278]:
+            xmin = 120.03309598332234 
+            xmax = 120.59845376540648 
+            text = "" 
+        intervals [279]:
+            xmin = 120.59845376540648 
+            xmax = 120.78853102807525 
+            text = "which" 
+        intervals [280]:
+            xmin = 120.78853102807525 
+            xmax = 121.30547012561371 
+            text = "allowed" 
+        intervals [281]:
+            xmin = 121.30547012561371 
+            xmax = 121.48683193889048 
+            text = "" 
+        intervals [282]:
+            xmin = 121.48683193889048 
+            xmax = 121.69467343171522 
+            text = "to" 
+        intervals [283]:
+            xmin = 121.69467343171522 
+            xmax = 121.93804338485188 
+            text = "come" 
+        intervals [284]:
+            xmin = 121.93804338485188 
+            xmax = 122.20273041417569 
+            text = "see" 
+        intervals [285]:
+            xmin = 122.20273041417569 
+            xmax = 122.31819791018944 
+            text = "the" 
+        intervals [286]:
+            xmin = 122.31819791018944 
+            xmax = 123.20508815364585 
+            text = "performances" 
+        intervals [287]:
+            xmin = 123.20508815364585 
+            xmax = 123.68534429666734 
+            text = "" 
+        intervals [288]:
+            xmin = 123.68534429666734 
+            xmax = 123.95713701805353 
+            text = "they" 
+        intervals [289]:
+            xmin = 123.95713701805353 
+            xmax = 124.11168582041039 
+            text = "were" 
+        intervals [290]:
+            xmin = 124.11168582041039 
+            xmax = 124.36571431164063 
+            text = "very" 
+        intervals [291]:
+            xmin = 124.36571431164063 
+            xmax = 124.66031183034035 
+            text = "keen" 
+        intervals [292]:
+            xmin = 124.66031183034035 
+            xmax = 124.8054012182914 
+            text = "on" 
+        intervals [293]:
+            xmin = 124.8054012182914 
+            xmax = 125.42714927375002 
+            text = "encouraging" 
+        intervals [294]:
+            xmin = 125.42714927375002 
+            xmax = 125.88368998875822 
+            text = "people" 
+        intervals [295]:
+            xmin = 125.88368998875822 
+            xmax = 125.97428756255361 
+            text = "to" 
+        intervals [296]:
+            xmin = 125.97428756255361 
+            xmax = 126.10574286570773 
+            text = "get" 
+        intervals [297]:
+            xmin = 126.10574286570773 
+            xmax = 126.52973066710737 
+            text = "involved" 
+        intervals [298]:
+            xmin = 126.52973066710737 
+            xmax = 126.6078932797936 
+            text = "in" 
+        intervals [299]:
+            xmin = 126.6078932797936 
+            xmax = 126.7446778519945 
+            text = "the" 
+        intervals [300]:
+            xmin = 126.7446778519945 
+            xmax = 127.20121856700268 
+            text = "theatre" 
+        intervals [301]:
+            xmin = 127.20121856700268 
+            xmax = 127.86444617617995 
+            text = "" 
+        intervals [302]:
+            xmin = 127.86444617617995 
+            xmax = 128.57679180543397 
+            text = "" 
+        intervals [303]:
+            xmin = 128.57679180543397 
+            xmax = 128.95161706172473 
+            text = "which" 
+        intervals [304]:
+            xmin = 128.95161706172473 
+            xmax = 129.33297071075006 
+            text = "meant" 
+        intervals [305]:
+            xmin = 129.33297071075006 
+            xmax = 129.4590967448574 
+            text = "that" 
+        intervals [306]:
+            xmin = 129.4590967448574 
+            xmax = 129.6260805083234 
+            text = "if" 
+        intervals [307]:
+            xmin = 129.6260805083234 
+            xmax = 129.70424312100965 
+            text = "you" 
+        intervals [308]:
+            xmin = 129.70424312100965 
+            xmax = 129.99322277322398 
+            text = "can't" 
+        intervals [309]:
+            xmin = 129.99322277322398 
+            xmax = 130.7357675937431 
+            text = "afford" 
+        intervals [310]:
+            xmin = 130.7357675937431 
+            xmax = 131.1906985514217 
+            text = "" 
+        intervals [311]:
+            xmin = 131.1906985514217 
+            xmax = 131.34169450774735 
+            text = "to" 
+        intervals [312]:
+            xmin = 131.34169450774735 
+            xmax = 131.7751417235528 
+            text = "pay" 
+        intervals [313]:
+            xmin = 131.7751417235528 
+            xmax = 131.85152791322344 
+            text = "the" 
+        intervals [314]:
+            xmin = 131.85152791322344 
+            xmax = 132.42708897027654 
+            text = "entrance" 
+        intervals [315]:
+            xmin = 132.42708897027654 
+            xmax = 132.72036532908527 
+            text = "fee" 
+        intervals [316]:
+            xmin = 132.72036532908527 
+            xmax = 133.70805652575666 
+            text = "" 
+        intervals [317]:
+            xmin = 133.70805652575666 
+            xmax = 133.9632841406747 
+            text = "there" 
+        intervals [318]:
+            xmin = 133.9632841406747 
+            xmax = 134.5850321961333 
+            text = "was" 
+        intervals [319]:
+            xmin = 134.5850321961333 
+            xmax = 135.52670306008523 
+            text = "" 
+        intervals [320]:
+            xmin = 135.52670306008523 
+            xmax = 136.2925079410425 
+            text = "" 
+        intervals [321]:
+            xmin = 136.2925079410425 
+            xmax = 136.66778846045784 
+            text = "to" 
+        intervals [322]:
+            xmin = 136.66778846045784 
+            xmax = 136.99465029532752 
+            text = "" 
+        intervals [323]:
+            xmin = 136.99465029532752 
+            xmax = 137.11722348340365 
+            text = "have" 
+        intervals [324]:
+            xmin = 137.11722348340365 
+            xmax = 137.24334951751095 
+            text = "a" 
+        intervals [325]:
+            xmin = 137.24334951751095 
+            xmax = 137.6856788483944 
+            text = "government" 
+        intervals [326]:
+            xmin = 137.6856788483944 
+            xmax = 138.13837801548215 
+            text = "grant" 
+        intervals [327]:
+            xmin = 138.13837801548215 
+            xmax = 138.56236581688177 
+            text = "" 
+        intervals [328]:
+            xmin = 138.56236581688177 
+            xmax = 138.7777682648935 
+            text = "which" 
+        intervals [329]:
+            xmin = 138.7777682648935 
+            xmax = 139.05489025532648 
+            text = "these" 
+        intervals [330]:
+            xmin = 139.05489025532648 
+            xmax = 139.57005292984934 
+            text = "days" 
+        intervals [331]:
+            xmin = 139.57005292984934 
+            xmax = 139.65400007470694 
+            text = "you" 
+        intervals [332]:
+            xmin = 139.65400007470694 
+            xmax = 139.8103253000794 
+            text = "don't" 
+        intervals [333]:
+            xmin = 139.8103253000794 
+            xmax = 140.1559839275574 
+            text = "have" 
+        intervals [334]:
+            xmin = 140.1559839275574 
+            xmax = 142.35048817617852 
+            text = "" 
+        intervals [335]:
+            xmin = 142.35048817617852 
+            xmax = 143.20734589405575 
+            text = "" 
+        intervals [336]:
+            xmin = 143.20734589405575 
+            xmax = 143.7154028765162 
+            text = "stammered_the" 
+        intervals [337]:
+            xmin = 143.7154028765162 
+            xmax = 144.01045565834053 
+            text = "world" 
+        intervals [338]:
+            xmin = 144.01045565834053 
+            xmax = 144.1328622851813 
+            text = "of" 
+        intervals [339]:
+            xmin = 144.1328622851813 
+            xmax = 144.95728912565323 
+            text = "chorus" 
+        intervals [340]:
+            xmin = 144.95728912565323 
+            xmax = 145.35566314427135 
+            text = "" 
+        intervals [341]:
+            xmin = 145.35566314427135 
+            xmax = 145.71805343945294 
+            text = "" 
+        intervals [342]:
+            xmin = 145.71805343945294 
+            xmax = 146.19533393132045 
+            text = "12" 
+        intervals [343]:
+            xmin = 146.19533393132045 
+            xmax = 146.33211850352134 
+            text = "or" 
+        intervals [344]:
+            xmin = 146.33211850352134 
+            xmax = 146.82418767884144 
+            text = "15" 
+        intervals [345]:
+            xmin = 146.82418767884144 
+            xmax = 147.52071216664112 
+            text = "people" 
+        intervals [346]:
+            xmin = 147.52071216664112 
+            xmax = 147.66815527693558 
+            text = "in" 
+        intervals [347]:
+            xmin = 147.66815527693558 
+            xmax = 147.77118781184015 
+            text = "the" 
+        intervals [348]:
+            xmin = 147.77118781184015 
+            xmax = 148.5991674983433 
+            text = "chorus" 
+        intervals [349]:
+            xmin = 148.5991674983433 
+            xmax = 149.23690336094225 
+            text = "" 
+        intervals [350]:
+            xmin = 149.23690336094225 
+            xmax = 151.28619618540904 
+            text = "stammered_every" 
+        intervals [351]:
+            xmin = 151.28619618540904 
+            xmax = 151.58996452107596 
+            text = "comic" 
+        intervals [352]:
+            xmin = 151.58996452107596 
+            xmax = 152.01452962180343 
+            text = "play" 
+        intervals [353]:
+            xmin = 152.01452962180343 
+            xmax = 152.4194320331561 
+            text = "" 
+        intervals [354]:
+            xmin = 152.4194320331561 
+            xmax = 152.5491109132946 
+            text = "and" 
+        intervals [355]:
+            xmin = 152.5491109132946 
+            xmax = 152.65747271724598 
+            text = "up" 
+        intervals [356]:
+            xmin = 152.65747271724598 
+            xmax = 152.9097247854606 
+            text = "to" 
+        intervals [357]:
+            xmin = 152.9097247854606 
+            xmax = 153.44798095918622 
+            text = "24" 
+        intervals [358]:
+            xmin = 153.44798095918622 
+            xmax = 153.52969641790364 
+            text = "if" 
+        intervals [359]:
+            xmin = 153.52969641790364 
+            xmax = 153.65879799871436 
+            text = "it" 
+        intervals [360]:
+            xmin = 153.65879799871436 
+            xmax = 153.82933460821158 
+            text = "was" 
+        intervals [361]:
+            xmin = 153.82933460821158 
+            xmax = 153.93059072010055 
+            text = "the" 
+        intervals [362]:
+            xmin = 153.93059072010055 
+            xmax = 154.4937168160445 
+            text = "tragedy" 
+        intervals [363]:
+            xmin = 154.4937168160445 
+            xmax = 156.141082775862 
+            text = "" 
+        intervals [364]:
+            xmin = 156.141082775862 
+            xmax = 157.2974121228118 
+            text = "stammered_the" 
+        intervals [365]:
+            xmin = 157.2974121228118 
+            xmax = 157.7077658394145 
+            text = "chorus" 
+        intervals [366]:
+            xmin = 157.7077658394145 
+            xmax = 158.0594975965025 
+            text = "actor" 
+        intervals [367]:
+            xmin = 158.0594975965025 
+            xmax = 158.28956658731292 
+            text = "Danny" 
+        intervals [368]:
+            xmin = 158.28956658731292 
+            xmax = 159.03388783084768 
+            text = "ochestra" 
+        intervals [369]:
+            xmin = 159.03388783084768 
+            xmax = 159.65150574094727 
+            text = "" 
+        intervals [370]:
+            xmin = 159.65150574094727 
+            xmax = 160.01389603612887 
+            text = "which" 
+        intervals [371]:
+            xmin = 160.01389603612887 
+            xmax = 160.24660745117197 
+            text = "was" 
+        intervals [372]:
+            xmin = 160.24660745117197 
+            xmax = 160.91826201675323 
+            text = "wide-open" 
+        intervals [373]:
+            xmin = 160.91826201675323 
+            xmax = 161.54533934125863 
+            text = "space" 
+        intervals [374]:
+            xmin = 161.54533934125863 
+            xmax = 161.94164823497195 
+            text = "while" 
+        intervals [375]:
+            xmin = 161.94164823497195 
+            xmax = 162.06777426907925 
+            text = "from" 
+        intervals [376]:
+            xmin = 162.06777426907925 
+            xmax = 162.1388311897031 
+            text = "the" 
+        intervals [377]:
+            xmin = 162.1388311897031 
+            xmax = 162.5829369436021 
+            text = "meaning" 
+        intervals [378]:
+            xmin = 162.5829369436021 
+            xmax = 162.80321339753604 
+            text = "it's" 
+        intervals [379]:
+            xmin = 162.80321339753604 
+            xmax = 163.2183190838577 
+            text = "adoption" 
+        intervals [380]:
+            xmin = 163.2183190838577 
+            xmax = 163.43681911477603 
+            text = "these" 
+        intervals [381]:
+            xmin = 163.43681911477603 
+            xmax = 163.86493706153468 
+            text = "days" 
+        intervals [382]:
+            xmin = 163.86493706153468 
+            xmax = 164.62363635488015 
+            text = "" 
+        intervals [383]:
+            xmin = 164.62363635488015 
+            xmax = 165.24910381760532 
+            text = "" 
+        intervals [384]:
+            xmin = 165.24910381760532 
+            xmax = 165.4374046572585 
+            text = "there" 
+        intervals [385]:
+            xmin = 165.4374046572585 
+            xmax = 166.04746161217116 
+            text = "roles" 
+        intervals [386]:
+            xmin = 166.04746161217116 
+            xmax = 166.70519339106627 
+            text = "were" 
+        intervals [387]:
+            xmin = 166.70519339106627 
+            xmax = 166.83607139489257 
+            text = "" 
+        intervals [388]:
+            xmin = 166.83607139489257 
+            xmax = 167.47558368050713 
+            text = "thry" 
+        intervals [389]:
+            xmin = 167.47558368050713 
+            xmax = 167.81980928607842 
+            text = "" 
+        intervals [390]:
+            xmin = 167.81980928607842 
+            xmax = 168.29801708327506 
+            text = "" 
+        intervals [391]:
+            xmin = 168.29801708327506 
+            xmax = 168.5058585760998 
+            text = "they" 
+        intervals [392]:
+            xmin = 168.5058585760998 
+            xmax = 168.71370006892454 
+            text = "often" 
+        intervals [393]:
+            xmin = 168.71370006892454 
+            xmax = 169.19866355218227 
+            text = "commented" 
+        intervals [394]:
+            xmin = 169.19866355218227 
+            xmax = 169.572411352954 
+            text = "upon" 
+        intervals [395]:
+            xmin = 169.572411352954 
+            xmax = 169.60971623628149 
+            text = "the" 
+        intervals [396]:
+            xmin = 169.60971623628149 
+            xmax = 170.25988705998967 
+            text = "action" 
+        intervals [397]:
+            xmin = 170.25988705998967 
+            xmax = 170.67928308141836 
+            text = "" 
+        intervals [398]:
+            xmin = 170.67928308141836 
+            xmax = 171.07187256786509 
+            text = "or" 
+        intervals [399]:
+            xmin = 171.07187256786509 
+            xmax = 171.2939254448146 
+            text = "the" 
+        intervals [400]:
+            xmin = 171.2939254448146 
+            xmax = 171.7367100388226 
+            text = "female" 
+        intervals [401]:
+            xmin = 171.7367100388226 
+            xmax = 172.50767762759128 
+            text = "actors" 
+        intervals [402]:
+            xmin = 172.50767762759128 
+            xmax = 173.1435149265208 
+            text = "" 
+        intervals [403]:
+            xmin = 173.1435149265208 
+            xmax = 173.77947436610418 
+            text = "" 
+        intervals [404]:
+            xmin = 173.77947436610418 
+            xmax = 174.0370557033656 
+            text = "often" 
+        intervals [405]:
+            xmin = 174.0370557033656 
+            xmax = 174.73638907218267 
+            text = "acting" 
+        intervals [406]:
+            xmin = 174.73638907218267 
+            xmax = 176.01128360250343 
+            text = "is" 
+        intervals [407]:
+            xmin = 176.01128360250343 
+            xmax = 176.29621025249534 
+            text = "of" 
+        intervals [408]:
+            xmin = 176.29621025249534 
+            xmax = 176.7616330825815 
+            text = "action" 
+        intervals [409]:
+            xmin = 176.7616330825815 
+            xmax = 176.88953553970444 
+            text = "is" 
+        intervals [410]:
+            xmin = 176.88953553970444 
+            xmax = 177.34475175240198 
+            text = "unless" 
+        intervals [411]:
+            xmin = 177.34475175240198 
+            xmax = 178.048215266578 
+            text = "slaves" 
+        intervals [412]:
+            xmin = 178.048215266578 
+            xmax = 178.79063805089393 
+            text = "" 
+        intervals [413]:
+            xmin = 178.79063805089393 
+            xmax = 179.383963338103 
+            text = "" 
+        intervals [414]:
+            xmin = 179.383963338103 
+            xmax = 179.57404060077178 
+            text = "they" 
+        intervals [415]:
+            xmin = 179.57404060077178 
+            xmax = 179.71970728805067 
+            text = "would" 
+        intervals [416]:
+            xmin = 179.71970728805067 
+            xmax = 180.70223588136128 
+            text = "" 
+        intervals [417]:
+            xmin = 180.70223588136128 
+            xmax = 180.75747155608013 
+            text = "" 
+        intervals [418]:
+            xmin = 180.75747155608013 
+            xmax = 180.9546545108113 
+            text = "they" 
+        intervals [419]:
+            xmin = 180.9546545108113 
+            xmax = 181.09321550602778 
+            text = "would" 
+        intervals [420]:
+            xmin = 181.09321550602778 
+            xmax = 182.60053274950238 
+            text = "stammered_sing" 
+        intervals [421]:
+            xmin = 182.60053274950238 
+            xmax = 182.6786953621886 
+            text = "and" 
+        intervals [422]:
+            xmin = 182.6786953621886 
+            xmax = 183.18675234464908 
+            text = "dance" 
+        intervals [423]:
+            xmin = 183.18675234464908 
+            xmax = 183.3559676898047 
+            text = "as" 
+        intervals [424]:
+            xmin = 183.3559676898047 
+            xmax = 183.80540271275046 
+            text = "well" 
+        intervals [425]:
+            xmin = 183.80540271275046 
+            xmax = 184.52782968522087 
+            text = "" 
+        intervals [426]:
+            xmin = 184.52782968522087 
+            xmax = 184.97445572269868 
+            text = "" 
+        intervals [427]:
+            xmin = 184.97445572269868 
+            xmax = 185.08104110363442 
+            text = "and" 
+        intervals [428]:
+            xmin = 185.08104110363442 
+            xmax = 185.2320370599601 
+            text = "were" 
+        intervals [429]:
+            xmin = 185.2320370599601 
+            xmax = 185.8813418824512 
+            text = "accompanied" 
+        intervals [430]:
+            xmin = 185.8813418824512 
+            xmax = 186.08918337527595 
+            text = "by" 
+        intervals [431]:
+            xmin = 186.08918337527595 
+            xmax = 186.22241510144568 
+            text = "an" 
+        intervals [432]:
+            xmin = 186.22241510144568 
+            xmax = 186.3947281339585 
+            text = "hour" 
+        intervals [433]:
+            xmin = 186.3947281339585 
+            xmax = 186.72158996882817 
+            text = "late" 
+        intervals [434]:
+            xmin = 186.72158996882817 
+            xmax = 187.13239894855545 
+            text = "as" 
+        intervals [435]:
+            xmin = 187.13239894855545 
+            xmax = 188.02685025164942 
+            text = "" 
+        intervals [436]:
+            xmin = 188.02685025164942 
+            xmax = 188.49404950475116 
+            text = "which" 
+        intervals [437]:
+            xmin = 188.49404950475116 
+            xmax = 188.71965522773186 
+            text = "means" 
+        intervals [438]:
+            xmin = 188.71965522773186 
+            xmax = 188.81735849358967 
+            text = "a" 
+        intervals [439]:
+            xmin = 188.81735849358967 
+            xmax = 189.0625048697419 
+            text = "flute" 
+        intervals [440]:
+            xmin = 189.0625048697419 
+            xmax = 189.44993164837723 
+            text = "player" 
+        intervals [441]:
+            xmin = 189.44993164837723 
+            xmax = 191.53756191862394 
+            text = "" 
+        intervals [442]:
+            xmin = 191.53756191862394 
+            xmax = 191.73652129637068 
+            text = "one" 
+        intervals [443]:
+            xmin = 191.73652129637068 
+            xmax = 192.16108639709816 
+            text = "sakura" 
+        intervals [444]:
+            xmin = 192.16108639709816 
+            xmax = 192.47373684784307 
+            text = "sent" 
+        intervals [445]:
+            xmin = 192.47373684784307 
+            xmax = 192.5785458057632 
+            text = "to" 
+        intervals [446]:
+            xmin = 192.5785458057632 
+            xmax = 192.65848484146505 
+            text = "the" 
+        intervals [447]:
+            xmin = 192.65848484146505 
+            xmax = 193.02000913542963 
+            text = "stage" 
+        intervals [448]:
+            xmin = 193.02000913542963 
+            xmax = 193.2646264477403 
+            text = "that" 
+        intervals [449]:
+            xmin = 193.2646264477403 
+            xmax = 193.47602078659625 
+            text = "" 
+        intervals [450]:
+            xmin = 193.47602078659625 
+            xmax = 194.03708175763538 
+            text = "usually" 
+        intervals [451]:
+            xmin = 194.03708175763538 
+            xmax = 194.36653778125145 
+            text = "live" 
+        intervals [452]:
+            xmin = 194.36653778125145 
+            xmax = 195.16676475935122 
+            text = "" 
+        intervals [453]:
+            xmin = 195.16676475935122 
+            xmax = 195.633964012453 
+            text = "and" 
+        intervals [454]:
+            xmin = 195.633964012453 
+            xmax = 196.18820799331897 
+            text = "they" 
+        intervals [455]:
+            xmin = 196.18820799331897 
+            xmax = 196.4261266412056 
+            text = "" 
+        intervals [456]:
+            xmin = 196.4261266412056 
+            xmax = 196.74588278401288 
+            text = "usually" 
+        intervals [457]:
+            xmin = 196.74588278401288 
+            xmax = 197.20064707600545 
+            text = "active" 
+        intervals [458]:
+            xmin = 197.20064707600545 
+            xmax = 197.2788096886917 
+            text = "is" 
+        intervals [459]:
+            xmin = 197.2788096886917 
+            xmax = 197.32499668709718 
+            text = "a" 
+        intervals [460]:
+            xmin = 197.32499668709718 
+            xmax = 197.78331382512098 
+            text = "single" 
+        intervals [461]:
+            xmin = 197.78331382512098 
+            xmax = 198.35164715390846 
+            text = "group" 
+        intervals [462]:
+            xmin = 198.35164715390846 
+            xmax = 198.46356180389103 
+            text = "" 
+        intervals [463]:
+            xmin = 198.46356180389103 
+            xmax = 198.77621225463594 
+            text = "so" 
+        intervals [464]:
+            xmin = 198.77621225463594 
+            xmax = 198.88457405858728 
+            text = "they" 
+        intervals [465]:
+            xmin = 198.88457405858728 
+            xmax = 199.0675456291937 
+            text = "had" 
+        intervals [466]:
+            xmin = 199.0675456291937 
+            xmax = 199.52230992118626 
+            text = "no" 
+        intervals [467]:
+            xmin = 199.52230992118626 
+            xmax = 200.56598065313972 
+            text = "individuality" 
+        intervals [468]:
+            xmin = 200.56598065313972 
+            xmax = 200.9221757825081 
+            text = "" 
+        intervals [469]:
+            xmin = 200.9221757825081 
+            xmax = 201.12291158327045 
+            text = "they're" 
+        intervals [470]:
+            xmin = 201.12291158327045 
+            xmax = 201.34141161418876 
+            text = "all" 
+        intervals [471]:
+            xmin = 201.34141161418876 
+            xmax = 201.4142449578282 
+            text = "the" 
+        intervals [472]:
+            xmin = 201.4142449578282 
+            xmax = 202.16034262437853 
+            text = "same" 
+        intervals [473]:
+            xmin = 202.16034262437853 
+            xmax = 202.91371254422666 
+            text = "" 
+        intervals [474]:
+            xmin = 202.91371254422666 
+            xmax = 203.11564746867677 
+            text = "all" 
+        intervals [475]:
+            xmin = 203.11564746867677 
+            xmax = 203.16361089009789 
+            text = "the" 
+        intervals [476]:
+            xmin = 203.16361089009789 
+            xmax = 203.49580199401433 
+            text = "same" 
+        intervals [477]:
+            xmin = 203.49580199401433 
+            xmax = 203.8795093653831 
+            text = "masks" 
+        intervals [478]:
+            xmin = 203.8795093653831 
+            xmax = 204.03405816773994 
+            text = "and" 
+        intervals [479]:
+            xmin = 204.03405816773994 
+            xmax = 204.08202158916103 
+            text = "the" 
+        intervals [480]:
+            xmin = 204.08202158916103 
+            xmax = 204.47638749862335 
+            text = "same" 
+        intervals [481]:
+            xmin = 204.47638749862335 
+            xmax = 205.06174119700364 
+            text = "clothes" 
+        intervals [482]:
+            xmin = 205.06174119700364 
+            xmax = 208.9012244897959 
+            text = "" 

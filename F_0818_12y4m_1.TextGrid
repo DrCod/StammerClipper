@@ -1,0 +1,166 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 117.47265306122449 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 117.47265306122449 
+        intervals: size = 38 
+        intervals [1]:
+            xmin = 0 
+            xmax = 9.491148137920245 
+            text = "" 
+        intervals [2]:
+            xmin = 9.491148137920245 
+            xmax = 12.395189748143837 
+            text = "" 
+        intervals [3]:
+            xmin = 12.395189748143837 
+            xmax = 14.370572141486683 
+            text = "stammered_most" 
+        intervals [4]:
+            xmin = 14.370572141486683 
+            xmax = 19.053780946460932 
+            text = "" 
+        intervals [5]:
+            xmin = 19.053780946460932 
+            xmax = 20.947007168578157 
+            text = "giraffe" 
+        intervals [6]:
+            xmin = 20.947007168578157 
+            xmax = 22.503153730240328 
+            text = "" 
+        intervals [7]:
+            xmin = 22.503153730240328 
+            xmax = 25.87511130121837 
+            text = "stammered_elephant" 
+        intervals [8]:
+            xmin = 25.87511130121837 
+            xmax = 26.94096511057602 
+            text = "" 
+        intervals [9]:
+            xmin = 26.94096511057602 
+            xmax = 27.80785954218691 
+            text = "and" 
+        intervals [10]:
+            xmin = 27.80785954218691 
+            xmax = 28.653436897610646 
+            text = "" 
+        intervals [11]:
+            xmin = 28.653436897610646 
+            xmax = 30.99831527819748 
+            text = "stammered_tigers" 
+        intervals [12]:
+            xmin = 30.99831527819748 
+            xmax = 32.3725136642826 
+            text = "" 
+        intervals [13]:
+            xmin = 32.3725136642826 
+            xmax = 38.37388967255722 
+            text = "" 
+        intervals [14]:
+            xmin = 38.37388967255722 
+            xmax = 41.017207119764194 
+            text = "lions" 
+        intervals [15]:
+            xmin = 41.017207119764194 
+            xmax = 42.22467273213326 
+            text = "" 
+        intervals [16]:
+            xmin = 42.22467273213326 
+            xmax = 44.74008772221732 
+            text = "penguins" 
+        intervals [17]:
+            xmin = 44.74008772221732 
+            xmax = 51.90554779060181 
+            text = "" 
+        intervals [18]:
+            xmin = 51.90554779060181 
+            xmax = 52.459791771467785 
+            text = "" 
+        intervals [19]:
+            xmin = 52.459791771467785 
+            xmax = 53.39774312370252 
+            text = "" 
+        intervals [20]:
+            xmin = 53.39774312370252 
+            xmax = 54.68387338699409 
+            text = "" 
+        intervals [21]:
+            xmin = 54.68387338699409 
+            xmax = 58.15475296971886 
+            text = "" 
+        intervals [22]:
+            xmin = 58.15475296971886 
+            xmax = 62.976896411115725 
+            text = "" 
+        intervals [23]:
+            xmin = 62.976896411115725 
+            xmax = 66.00915285267659 
+            text = "" 
+        intervals [24]:
+            xmin = 66.00915285267659 
+            xmax = 67.43010160113157 
+            text = "" 
+        intervals [25]:
+            xmin = 67.43010160113157 
+            xmax = 71.487451768753 
+            text = "" 
+        intervals [26]:
+            xmin = 71.487451768753 
+            xmax = 76.22370221570884 
+            text = "" 
+        intervals [27]:
+            xmin = 76.22370221570884 
+            xmax = 78.30566998998745 
+            text = "tigers" 
+        intervals [28]:
+            xmin = 78.30566998998745 
+            xmax = 82.86396576116931 
+            text = "" 
+        intervals [29]:
+            xmin = 82.86396576116931 
+            xmax = 85.47886044012674 
+            text = "" 
+        intervals [30]:
+            xmin = 85.47886044012674 
+            xmax = 92.36202265145614 
+            text = "" 
+        intervals [31]:
+            xmin = 92.36202265145614 
+            xmax = 95.33930762559517 
+            text = "stammered_crocodiles" 
+        intervals [32]:
+            xmin = 95.33930762559517 
+            xmax = 97.69078966000812 
+            text = "" 
+        intervals [33]:
+            xmin = 97.69078966000812 
+            xmax = 100.75334293889576 
+            text = "" 
+        intervals [34]:
+            xmin = 100.75334293889576 
+            xmax = 104.85307058230389 
+            text = "" 
+        intervals [35]:
+            xmin = 104.85307058230389 
+            xmax = 108.59066460711803 
+            text = "" 
+        intervals [36]:
+            xmin = 108.59066460711803 
+            xmax = 114.53625479425645 
+            text = "" 
+        intervals [37]:
+            xmin = 114.53625479425645 
+            xmax = 117.39984869539732 
+            text = "" 
+        intervals [38]:
+            xmin = 117.39984869539732 
+            xmax = 117.47265306122449 
+            text = "" 
