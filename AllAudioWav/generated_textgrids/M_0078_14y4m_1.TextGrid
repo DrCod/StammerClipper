@@ -1,0 +1,454 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 136.96 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 136.96 
+        intervals: size = 110 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.5879968033578047 
+            text = "" 
+        intervals [2]:
+            xmin = 1.5879968033578047 
+            xmax = 2.049866787412786 
+            text = "at" 
+        intervals [3]:
+            xmin = 2.049866787412786 
+            xmax = 4.504883394966573 
+            text = "" 
+        intervals [4]:
+            xmin = 4.504883394966573 
+            xmax = 5.307509808874779 
+            text = "" 
+        intervals [5]:
+            xmin = 5.307509808874779 
+            xmax = 5.812013945304067 
+            text = "take" 
+        intervals [6]:
+            xmin = 5.812013945304067 
+            xmax = 6.276374353822768 
+            text = "in" 
+        intervals [7]:
+            xmin = 6.276374353822768 
+            xmax = 8.553748659816947 
+            text = "one" 
+        intervals [8]:
+            xmin = 8.553748659816947 
+            xmax = 9.81294741971147 
+            text = "years" 
+        intervals [9]:
+            xmin = 9.81294741971147 
+            xmax = 11.489890746434174 
+            text = "time" 
+        intervals [10]:
+            xmin = 11.489890746434174 
+            xmax = 11.870045271771737 
+            text = "for" 
+        intervals [11]:
+            xmin = 11.870045271771737 
+            xmax = 12.343192765474049 
+            text = "" 
+        intervals [12]:
+            xmin = 12.343192765474049 
+            xmax = 15.24299742891686 
+            text = "stammered_the" 
+        intervals [13]:
+            xmin = 15.24299742891686 
+            xmax = 16.404588021327964 
+            text = "" 
+        intervals [14]:
+            xmin = 16.404588021327964 
+            xmax = 18.86196059118368 
+            text = "stammered_the" 
+        intervals [15]:
+            xmin = 18.86196059118368 
+            xmax = 19.446152757885496 
+            text = "" 
+        intervals [16]:
+            xmin = 19.446152757885496 
+            xmax = 20.411001460783464 
+            text = "stammered_the" 
+        intervals [17]:
+            xmin = 20.411001460783464 
+            xmax = 21.01283119676875 
+            text = "" 
+        intervals [18]:
+            xmin = 21.01283119676875 
+            xmax = 23.01308351232994 
+            text = "stammered_the" 
+        intervals [19]:
+            xmin = 23.01308351232994 
+            xmax = 27.13287896845167 
+            text = "" 
+        intervals [20]:
+            xmin = 27.13287896845167 
+            xmax = 28.39413930952489 
+            text = "" 
+        intervals [21]:
+            xmin = 28.39413930952489 
+            xmax = 29.920864011806295 
+            text = "" 
+        intervals [22]:
+            xmin = 29.920864011806295 
+            xmax = 31.19433755474182 
+            text = "stammered_the" 
+        intervals [23]:
+            xmin = 31.19433755474182 
+            xmax = 34.40411225315709 
+            text = "" 
+        intervals [24]:
+            xmin = 34.40411225315709 
+            xmax = 36.106544405171896 
+            text = "" 
+        intervals [25]:
+            xmin = 36.106544405171896 
+            xmax = 37.52132282649263 
+            text = "stammered_the" 
+        intervals [26]:
+            xmin = 37.52132282649263 
+            xmax = 41.16603833388583 
+            text = "" 
+        intervals [27]:
+            xmin = 41.16603833388583 
+            xmax = 41.79133923537565 
+            text = "and" 
+        intervals [28]:
+            xmin = 41.79133923537565 
+            xmax = 42.207022221025134 
+            text = "stammered_the" 
+        intervals [29]:
+            xmin = 42.207022221025134 
+            xmax = 42.910485735201185 
+            text = "stammered_the" 
+        intervals [30]:
+            xmin = 42.910485735201185 
+            xmax = 44.29141702085122 
+            text = "" 
+        intervals [31]:
+            xmin = 44.29141702085122 
+            xmax = 45.96542647309649 
+            text = "" 
+        intervals [32]:
+            xmin = 45.96542647309649 
+            xmax = 47.0490445126101 
+            text = "stammered_the" 
+        intervals [33]:
+            xmin = 47.0490445126101 
+            xmax = 49.26991993627943 
+            text = "" 
+        intervals [34]:
+            xmin = 49.26991993627943 
+            xmax = 51.142143065365225 
+            text = "stammered_the" 
+        intervals [35]:
+            xmin = 51.142143065365225 
+            xmax = 51.53631891503882 
+            text = "" 
+        intervals [36]:
+            xmin = 51.53631891503882 
+            xmax = 53.90681285027024 
+            text = "" 
+        intervals [37]:
+            xmin = 53.90681285027024 
+            xmax = 55.591544171045335 
+            text = "stammered_the" 
+        intervals [38]:
+            xmin = 55.591544171045335 
+            xmax = 57.69451230084988 
+            text = "stammered_the" 
+        intervals [39]:
+            xmin = 57.69451230084988 
+            xmax = 58.56851242452314 
+            text = "GTA " 
+        intervals [40]:
+            xmin = 58.56851242452314 
+            xmax = 60.24190290521465 
+            text = "stammered_SA" 
+        intervals [41]:
+            xmin = 60.24190290521465 
+            xmax = 62.61575962668853 
+            text = "" 
+        intervals [42]:
+            xmin = 62.61575962668853 
+            xmax = 63.29080037261504 
+            text = "it's" 
+        intervals [43]:
+            xmin = 63.29080037261504 
+            xmax = 64.20262932127523 
+            text = "not" 
+        intervals [44]:
+            xmin = 64.20262932127523 
+            xmax = 64.96649121798153 
+            text = "" 
+        intervals [45]:
+            xmin = 64.96649121798153 
+            xmax = 65.39993843378697 
+            text = "pain" 
+        intervals [46]:
+            xmin = 65.39993843378697 
+            xmax = 65.78364580515573 
+            text = "" 
+        intervals [47]:
+            xmin = 65.78364580515573 
+            xmax = 66.13154317548515 
+            text = "" 
+        intervals [48]:
+            xmin = 66.13154317548515 
+            xmax = 66.47616924051079 
+            text = "or" 
+        intervals [49]:
+            xmin = 66.47616924051079 
+            xmax = 73.4924699727491 
+            text = "" 
+        intervals [50]:
+            xmin = 73.4924699727491 
+            xmax = 74.12113366048138 
+            text = "stammered_only" 
+        intervals [51]:
+            xmin = 74.12113366048138 
+            xmax = 75.41792246186651 
+            text = "" 
+        intervals [52]:
+            xmin = 75.41792246186651 
+            xmax = 76.29192258553978 
+            text = "" 
+        intervals [53]:
+            xmin = 76.29192258553978 
+            xmax = 78.30962234211573 
+            text = "stammered_talk" 
+        intervals [54]:
+            xmin = 78.30962234211573 
+            xmax = 78.72530532776521 
+            text = "it" 
+        intervals [55]:
+            xmin = 78.72530532776521 
+            xmax = 79.13388262135231 
+            text = "it" 
+        intervals [56]:
+            xmin = 79.13388262135231 
+            xmax = 79.51908132605357 
+            text = "" 
+        intervals [57]:
+            xmin = 79.51908132605357 
+            xmax = 79.80686185458012 
+            text = "it's" 
+        intervals [58]:
+            xmin = 79.80686185458012 
+            xmax = 80.34334160529014 
+            text = "stammered_done" 
+        intervals [59]:
+            xmin = 80.34334160529014 
+            xmax = 80.4463741401947 
+            text = "in" 
+        intervals [60]:
+            xmin = 80.4463741401947 
+            xmax = 81.02193519724783 
+            text = "sort of" 
+        intervals [61]:
+            xmin = 81.02193519724783 
+            xmax = 82.02632813402775 
+            text = "lots" 
+        intervals [62]:
+            xmin = 82.02632813402775 
+            xmax = 82.27147451018001 
+            text = "of" 
+        intervals [63]:
+            xmin = 82.27147451018001 
+            xmax = 82.7297916482038 
+            text = "" 
+        intervals [64]:
+            xmin = 82.7297916482038 
+            xmax = 83.82830344231219 
+            text = "stammered_separate" 
+        intervals [65]:
+            xmin = 83.82830344231219 
+            xmax = 85.40912979792398 
+            text = "stammered_ways" 
+        intervals [66]:
+            xmin = 85.40912979792398 
+            xmax = 86.37195107237704 
+            text = "" 
+        intervals [67]:
+            xmin = 86.37195107237704 
+            xmax = 87.06120320242832 
+            text = "pencil" 
+        intervals [68]:
+            xmin = 87.06120320242832 
+            xmax = 87.33987992511007 
+            text = "and" 
+        intervals [69]:
+            xmin = 87.33987992511007 
+            xmax = 87.66318891394855 
+            text = "" 
+        intervals [70]:
+            xmin = 87.66318891394855 
+            xmax = 87.9616279805687 
+            text = "all" 
+        intervals [71]:
+            xmin = 87.9616279805687 
+            xmax = 88.41639227256128 
+            text = "that" 
+        intervals [72]:
+            xmin = 88.41639227256128 
+            xmax = 90.42362355083235 
+            text = "" 
+        intervals [73]:
+            xmin = 90.42362355083235 
+            xmax = 92.19785832437728 
+            text = "" 
+        intervals [74]:
+            xmin = 92.19785832437728 
+            xmax = 92.82315922586709 
+            text = "it's" 
+        intervals [75]:
+            xmin = 92.82315922586709 
+            xmax = 93.46622435751287 
+            text = "been" 
+        intervals [76]:
+            xmin = 93.46622435751287 
+            xmax = 94.16613502565772 
+            text = "round" 
+        intervals [77]:
+            xmin = 94.16613502565772 
+            xmax = 94.54628955099528 
+            text = "for" 
+        intervals [78]:
+            xmin = 94.54628955099528 
+            xmax = 96.1981728957109 
+            text = "stammered_lots" 
+        intervals [79]:
+            xmin = 96.1981728957109 
+            xmax = 97.6971571317328 
+            text = "stammered_of" 
+        intervals [80]:
+            xmin = 97.6971571317328 
+            xmax = 98.08441734913274 
+            text = "" 
+        intervals [81]:
+            xmin = 98.08441734913274 
+            xmax = 99.71162083141873 
+            text = "stammered_years" 
+        intervals [82]:
+            xmin = 99.71162083141873 
+            xmax = 100.35798541887073 
+            text = "" 
+        intervals [83]:
+            xmin = 100.35798541887073 
+            xmax = 100.70616432992755 
+            text = "and" 
+        intervals [84]:
+            xmin = 100.70616432992755 
+            xmax = 104.74705147245683 
+            text = "" 
+        intervals [85]:
+            xmin = 104.74705147245683 
+            xmax = 104.96732792639074 
+            text = "it" 
+        intervals [86]:
+            xmin = 104.96732792639074 
+            xmax = 106.92139324354642 
+            text = "" 
+        intervals [87]:
+            xmin = 106.92139324354642 
+            xmax = 107.23759654032251 
+            text = "it" 
+        intervals [88]:
+            xmin = 107.23759654032251 
+            xmax = 107.87074883478097 
+            text = "" 
+        intervals [89]:
+            xmin = 107.87074883478097 
+            xmax = 108.42486608629446 
+            text = "and" 
+        intervals [90]:
+            xmin = 108.42486608629446 
+            xmax = 109.82630548526916 
+            text = "" 
+        intervals [91]:
+            xmin = 109.82630548526916 
+            xmax = 110.11053316776453 
+            text = "and" 
+        intervals [92]:
+            xmin = 110.11053316776453 
+            xmax = 111.16721977236111 
+            text = "" 
+        intervals [93]:
+            xmin = 111.16721977236111 
+            xmax = 111.72501659925828 
+            text = "and" 
+        intervals [94]:
+            xmin = 111.72501659925828 
+            xmax = 112.45335003565268 
+            text = "stammered_got" 
+        intervals [95]:
+            xmin = 112.45335003565268 
+            xmax = 112.82446401710163 
+            text = "got" 
+        intervals [96]:
+            xmin = 112.82446401710163 
+            xmax = 113.10158600753462 
+            text = "got" 
+        intervals [97]:
+            xmin = 113.10158600753462 
+            xmax = 113.31120392337496 
+            text = "got" 
+        intervals [98]:
+            xmin = 113.31120392337496 
+            xmax = 113.76436664550121 
+            text = "made" 
+        intervals [99]:
+            xmin = 113.76436664550121 
+            xmax = 113.87805771849936 
+            text = "to" 
+        intervals [100]:
+            xmin = 113.87805771849936 
+            xmax = 114.7200822278919 
+            text = "" 
+        intervals [101]:
+            xmin = 114.7200822278919 
+            xmax = 115.25105785640586 
+            text = "tell" 
+        intervals [102]:
+            xmin = 115.25105785640586 
+            xmax = 117.18469159645177 
+            text = "" 
+        intervals [103]:
+            xmin = 117.18469159645177 
+            xmax = 117.38963084577722 
+            text = "sort" 
+        intervals [104]:
+            xmin = 117.38963084577722 
+            xmax = 117.5814845314616 
+            text = "of" 
+        intervals [105]:
+            xmin = 117.5814845314616 
+            xmax = 121.82575632802754 
+            text = "stammered_what's" 
+        intervals [106]:
+            xmin = 121.82575632802754 
+            xmax = 122.25209785177059 
+            text = "" 
+        intervals [107]:
+            xmin = 122.25209785177059 
+            xmax = 135.46337803512188 
+            text = "" 
+        intervals [108]:
+            xmin = 135.46337803512188 
+            xmax = 136.08512609058047 
+            text = "stammered_going" 
+        intervals [109]:
+            xmin = 136.08512609058047 
+            xmax = 136.66779283969595 
+            text = "stammered_on" 
+        intervals [110]:
+            xmin = 136.66779283969595 
+            xmax = 136.96 
+            text = "" 

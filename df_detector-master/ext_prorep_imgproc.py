@@ -1,0 +1,251 @@
+#!/usr/bin/env python
+
+# this script is writed by byjang 2016.12.14
+# Reference
+# [1] I. Esmaili, N.J. Dabanloo, M. Vali, "Automatic classification of speech dysfluencies in continuous speech based on similarity measures and morphological image processing tools", Biomedical Signal Processing and Control, 23, 104-114, 2016
+
+import argparse
+import sys
+
+import numpy
+from scipy.spatial import distance as dist
+from python_speech_features import mfcc
+from python_speech_features import logfbank
+import matplotlib.pyplot as plt
+import scipy.misc
+
+from func import vadwav
+from func import imgoperator as imop
+from func import dfio
+
+def compute_similarity(x,method='xcorr'):
+    # create the square matrix of distance between each frame of self
+    # do not fix the min or max of distance
+    # but, the range of distance is 0-1 in 'xcorr'
+    # low ~ high = near ~ far
+    (nframe,nfeat) = x.shape
+    print 'no. of frames : %d / no. of features : %d' %(nframe,nfeat)
+    print 'compute similarity using %s' % (method)
+
+    simmat = numpy.zeros((nframe,nframe))
+    for i in range(nframe):
+        for j in range(nframe):
+            if method == 'xcorr':
+                similarity = dist.correlation(x[i],x[j]) # 1 - cross-correlation coeff (pearson)
+            elif method == 'eucl':
+                similarity = dist.euclidean(x[i],x[j]) # euclidean distance
+            else :
+                print 'error!! define the method for measuring similarity : %s' % (method)
+                raise
+
+    simmat[i,j] = similarity
+
+    return simmat
+
+def simmat2img(simmat,bplot=False):
+  # normalize data to 0-1 range
+  # method : x_ = (x - min(x))/(max(x) - min(x))
+    
+    img = (simmat - numpy.min(simmat))/(numpy.max(simmat) - numpy.min(simmat))
+
+  # range reverse 0(less) ~ 1(highly) similarity 
+    img = 1 - img
+    if bplot :
+        img_b = numpy.copy(img)
+        plt.subplot(232)
+        plt.imshow(img_b,cmap='gray')
+        plt.title('similarity matrix')
+
+    return img
+
+def improc_pro(img,thr_pro=0.9,clssqr=5,opnsqr=20,bplot=False):
+  ## recipe for detecting prolongation in [1]
+  # thresholding image to 0 or 1
+    
+    print 'processing image for prolongation...'
+    img = imop.thresholding(img,thr_pro)
+    if bplot :
+        img_c = numpy.copy(img)
+        plt.subplot(233)
+        plt.imshow(img_c,cmap='gray')
+
+      # remain digonal connected-component
+    img = imop.remain_digncomp(img)
+    if bplot :
+        img_d = numpy.copy(img)
+        plt.subplot(234)
+        plt.imshow(img_d,cmap='gray')
+
+      # closing operation
+    img = imop.closing(img,clssqr)
+    if bplot :
+        img_e = numpy.copy(img)
+        plt.subplot(235)
+        plt.imshow(img_e,cmap='gray')
+
+      # opening operation
+    img = imop.opening(img,opnsqr)
+    if bplot :
+        img_f = numpy.copy(img)
+        plt.subplot(236)
+        plt.imshow(img_f,cmap='gray')
+       # plt.show()
+
+      return numpy.copy(img)
+      ## end of recipe
+
+def improc_rep(img,thr_rep=0.9,elisize=3,repsize=10,bplot=False):
+  ## recipe for detecting repetition of syllables and words in [1]
+  # remove digonal connected-component
+    
+    print 'processing image for repetition ... '
+    img_bi = imop.thresholding(img,thr_rep)
+    img_dig = imop.remain_digncomp(img_bi)
+    img = img - img_dig
+    img[img<0] = 0
+    if bplot :
+        img_c = numpy.copy(img)
+        plt.subplot(233)
+        plt.imshow(img_c,cmap='gray')
+
+  # thresholding image to 0 or 1
+    img = imop.thresholding(img,thr_rep)
+    if bplot :
+        img_d = numpy.copy(img)
+        plt.subplot(234)
+        plt.imshow(img_d,cmap='gray')
+
+  # eliminating small components
+    img = imop.eliminate_comp(img,elisize)
+    if bplot :
+        img_e = numpy.copy(img)
+        plt.subplot(235)
+        plt.imshow(img_e,cmap='gray')
+
+    # extract components
+    img = imop.remain_sylrepcomp(img,repsize)
+    if bplot : 
+        img_f = numpy.copy(img)
+        plt.subplot(236)
+        plt.imshow(img_f,cmap='gray')
+        #plt.show()
+
+    return numpy.copy(img)
+  ## end of recipe
+
+
+#########################main################################
+# option parser
+parser = argparse.ArgumentParser()
+parser.add_argument("wav_file",help="input wave file name")
+parser.add_argument("out_file",help="output binary file name")
+parser.add_argument("--fmethod",action='store',default='mfcc',help="the METHOD of acoustric feature extraction : mfcc (default), fbank")
+parser.add_argument("--smethod",action='store',default='xcorr',help="the METHOD of computing similarity matrix : xcorr (default), eucl")
+parser.add_argument("-t",dest="thr",default=0.9,type=float,help="threshold for binarization of image(default=0.9)")
+
+# for VAD
+vad_parser = parser.add_argument_group('VAD option')
+vad_parser.add_argument("-a",dest="vad_agg",default=0,type=int,help="VAD aggressive number 0~3 (default=0)")
+vad_parser.add_argument("-p",dest="vad_pad",default=50,type=int,help="padding duration of frame for VAD (default=50)")
+
+# for prolongation
+pro_parser = parser.add_argument_group('Prolongation option')
+pro_parser.add_argument("-c",dest="clssqr",default=5,type=int,help="the size of square matrix for closing (default=5)")
+pro_parser.add_argument("-o",dest="opnsqr",default=20,type=int,help="the size of square matrix for opening (default=20)")
+
+# for repetition
+rep_parser = parser.add_argument_group('Repetition option')
+rep_parser.add_argument("-r",dest="rsize",default=10,type=int,help="(RSIZE*10ms) the minimum size of repetition (default=10)")
+rep_parser.add_argument("-e",dest="esize",default=3,type=int,help="(ESIZE*ESIZE pixel) the size of component for eliminating (default=3)")
+
+# for plot 
+plot_parser = parser.add_argument_group('Plot option')
+plot_parser.add_argument("--vad-plot",dest='vplot',action='store_true',default=False,help="plot the result of VAD (default=Flase)")
+plot_parser.add_argument("--pro-plot",dest='pplot',action='store_true',default=False,help="plot the image processing of prolongation (default=Flase)")
+plot_parser.add_argument("--rep-plot",dest='rplot',action='store_true',default=False,help="plot the image processing of repetition (default=Flase)")
+
+args=parser.parse_args()
+
+# end of parser
+
+fignum = 0
+vplot = args.vplot
+pro_plot = args.pplot
+rep_plot = args.rplot
+fmethod = args.fmethod
+smethod = args.smethod
+
+vad_agg = args.vad_agg
+vad_pad = args.vad_pad
+
+thr_pro = args.thr # threshold for binarization
+clssqr = args.clssqr # the size of square matrix for closing
+opnsqr = args.opnsqr # the size of square matrix for opening
+
+thr_rep = args.thr # threshold for binarization
+repsize = args.rsize # minimum size for repetition (repsize*10 ms)
+elisize = args.esize # elimination small component n*n
+
+# VAD
+(vad_data,vad_index,wav_data,sf) = vadwav.run(args.wav_file,vad_agg,10,vad_pad)
+if vplot:
+    
+    fignum += 1
+    vadwav.plotvad(vad_data,vad_index,wav_data,fignum) # plot the result of VAD
+
+# extract acoustic features based on frame
+# frame_win_size = 0.025, frame_win_step = 0.01
+if fmethod == 'fbank':
+    feat_data = logfbank(vad_data,sf)
+else: # default
+    feat_data = mfcc(vad_data,sf) 
+
+seg_feat = feat_data
+simmat = compute_similarity(seg_feat,smethod)
+
+if pro_plot:
+    fignum += 1
+    plt.figure(fignum)
+    plt.subplot(231)
+    plt.plot(vad_data)
+    plt.title('full VAD data')
+
+img_p = simmat2img(simmat,pro_plot)
+img_pro = improc_pro(img_p,thr_pro,clssqr,opnsqr,pro_plot)
+
+if rep_plot:
+    fignum += 1
+    plt.figure(fignum)
+    plt.subplot(231)
+    plt.plot(vad_data)
+    plt.title('full VAD data')
+
+img_r = simmat2img(simmat,rep_plot)
+img_rep= improc_rep(img_r,thr_rep,elisize,repsize,rep_plot)
+
+if vplot or rep_plot or pro_plot:
+    plt.show()
+
+## save data
+dfio.saveprorepimg(args.out_file,img_pro,img_rep)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

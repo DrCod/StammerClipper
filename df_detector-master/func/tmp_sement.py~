@@ -1,0 +1,40 @@
+ 
+  # temporal segment for experience
+  # disfluencies
+  seg1 = slice(400,600,1)
+  seg2 = slice(1600,2200,1)
+  ref2 = slice(1862,1958,1)
+  seg3 = slice(2300,2500,1)
+  seg4 = slice(2500,2700,1)
+  seg5 = slice(3400,3600,1)
+  seg6 = slice(3900,4100,1)
+  seg7 = slice(4900,5100,1)
+  segall = [seg1,seg2,seg3,seg4,seg5,seg6,seg7]
+
+  nseg1 = slice(600,800,1)
+  nseg2 = slice(700,900,1)
+  nseg3 = slice(1500,1700,1)
+  nseg4 = slice(2200,2400,1)
+  nseg5 = slice(3000,3200,1)
+  nseg6 = slice(3600,3800,1)
+  nseg7 = slice(4500,4700,1)
+  #segall = [nseg1,nseg2,nseg3,nseg4,nseg5,nseg6,nseg7]
+
+
+def segment_generator(data,win_size,win_step):
+  offset = 0
+  while offset + win_step < len(data):
+	yield data[offset:offset+win_size]
+	offset += win_step
+  if offset < len(data):
+	yield data[offset:len(data)]
+
+seg_win_size = 200 # frame*10 (ms)
+seg_win_step = seg_win_size/2 # frame*10 (ms)
+
+
+#segments = segment_generator(feat_data,seg_win_size,seg_win_step)
+
+
+#for seg_feat in enumerate(segments):
+#  print len(seg_feat)
