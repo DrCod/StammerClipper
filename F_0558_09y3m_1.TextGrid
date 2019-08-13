@@ -1,0 +1,170 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 65.22775510204082 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 65.22775510204082 
+        intervals: size = 39 
+        intervals [1]:
+            xmin = 0 
+            xmax = 4.194105753899022 
+            text = "" 
+        intervals [2]:
+            xmin = 4.194105753899022 
+            xmax = 5.743146623498807 
+            text = "because" 
+        intervals [3]:
+            xmin = 5.743146623498807 
+            xmax = 5.931999564013645 
+            text = "I" 
+        intervals [4]:
+            xmin = 5.931999564013645 
+            xmax = 6.3938695480686265 
+            text = "like" 
+        intervals [5]:
+            xmin = 6.3938695480686265 
+            xmax = 6.543089081378698 
+            text = "to" 
+        intervals [6]:
+            xmin = 6.543089081378698 
+            xmax = 6.841528147998839 
+            text = "watch" 
+        intervals [7]:
+            xmin = 6.841528147998839 
+            xmax = 7.552097354237273 
+            text = "because" 
+        intervals [8]:
+            xmin = 7.552097354237273 
+            xmax = 9.605642360266346 
+            text = "" 
+        intervals [9]:
+            xmin = 9.605642360266346 
+            xmax = 9.87565865863695 
+            text = "I" 
+        intervals [10]:
+            xmin = 9.87565865863695 
+            xmax = 10.145674957007554 
+            text = "like" 
+        intervals [11]:
+            xmin = 10.145674957007554 
+            xmax = 10.707024629935917 
+            text = "seeing" 
+        intervals [12]:
+            xmin = 10.707024629935917 
+            xmax = 11.005463696556058 
+            text = "lot" 
+        intervals [13]:
+            xmin = 11.005463696556058 
+            xmax = 11.140471845741361 
+            text = "of" 
+        intervals [14]:
+            xmin = 11.140471845741361 
+            xmax = 11.311008455238586 
+            text = "the" 
+        intervals [15]:
+            xmin = 11.311008455238586 
+            xmax = 12.362677015091542 
+            text = "people" 
+        intervals [16]:
+            xmin = 12.362677015091542 
+            xmax = 12.865527634651478 
+            text = "and" 
+        intervals [17]:
+            xmin = 12.865527634651478 
+            xmax = 14.755641723245711 
+            text = "" 
+        intervals [18]:
+            xmin = 14.755641723245711 
+            xmax = 14.947495408930088 
+            text = "I" 
+        intervals [19]:
+            xmin = 14.947495408930088 
+            xmax = 15.253040167612614 
+            text = "like" 
+        intervals [20]:
+            xmin = 15.253040167612614 
+            xmax = 15.977820757975815 
+            text = "watching" 
+        intervals [21]:
+            xmin = 15.977820757975815 
+            xmax = 16.03466629447489 
+            text = "my" 
+        intervals [22]:
+            xmin = 16.03466629447489 
+            xmax = 16.752341192775706 
+            text = "favorite" 
+        intervals [23]:
+            xmin = 16.752341192775706 
+            xmax = 17.782666541821435 
+            text = "wrestler" 
+        intervals [24]:
+            xmin = 17.782666541821435 
+            xmax = 18.160338612725393 
+            text = "stuff" 
+        intervals [25]:
+            xmin = 18.160338612725393 
+            xmax = 22.494006093660637 
+            text = "" 
+        intervals [26]:
+            xmin = 22.494006093660637 
+            xmax = 31.50698556791893 
+            text = "" 
+        intervals [27]:
+            xmin = 31.50698556791893 
+            xmax = 31.812530326601458 
+            text = "oh" 
+        intervals [28]:
+            xmin = 31.812530326601458 
+            xmax = 32.06833524084729 
+            text = "yeah" 
+        intervals [29]:
+            xmin = 32.06833524084729 
+            xmax = 32.23176615828213 
+            text = "i" 
+        intervals [30]:
+            xmin = 32.23176615828213 
+            xmax = 32.608367837588496 
+            text = "like" 
+        intervals [31]:
+            xmin = 32.608367837588496 
+            xmax = 33.212351662891166 
+            text = "watching" 
+        intervals [32]:
+            xmin = 33.212351662891166 
+            xmax = 34.21425424368735 
+            text = "tele" 
+        intervals [33]:
+            xmin = 34.21425424368735 
+            xmax = 35.358270665731226 
+            text = "" 
+        intervals [34]:
+            xmin = 35.358270665731226 
+            xmax = 35.52170158316606 
+            text = "i" 
+        intervals [35]:
+            xmin = 35.52170158316606 
+            xmax = 35.734872345037594 
+            text = "like" 
+        intervals [36]:
+            xmin = 35.734872345037594 
+            xmax = 36.25648169132478 
+            text = "listening" 
+        intervals [37]:
+            xmin = 36.25648169132478 
+            xmax = 36.45544106907154 
+            text = "" 
+        intervals [38]:
+            xmin = 36.45544106907154 
+            xmax = 37.0594248943742 
+            text = "news" 
+        intervals [39]:
+            xmin = 37.0594248943742 
+            xmax = 65.22775510204082 
+            text = "" 
