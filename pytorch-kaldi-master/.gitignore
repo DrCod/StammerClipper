@@ -1,6 +1,0 @@
-# Ignore temporary python files / dirs
-*.pyc
-__pycache__
-
-# Ignore user-generated exp directories
-exp

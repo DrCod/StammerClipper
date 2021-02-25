@@ -1,5 +1,0 @@
-[proto]
-opt_momentum=float(0,inf)
-opt_weight_decay=float(0,inf)
-opt_dampening=float(0,inf)
-opt_nesterov=bool
